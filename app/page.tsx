@@ -13,7 +13,6 @@ export default function Home() {
         <div className="content">
           <h1> Welcome! </h1>
           <p>
-            unimaginable experience
           </p>
           <button className="cta_btn"> Explore </button>
         </div>
