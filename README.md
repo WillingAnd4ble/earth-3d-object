@@ -2,7 +2,7 @@
 
 An animated 3D Earth rendered with custom GLSL shaders, embedded in a Next.js landing-page hero.
 
-<video src="images/video.mp4" controls width="100%"></video>
+[<video src="images/video.mp4" controls width="100%"></video>](https://github.com/user-attachments/assets/b13bc90f-119a-46e5-a735-3ee7cfbcaafa)
 
 > The video above shows the scroll-driven planet animation. If it doesn't render here, the file is at [`images/video.mp4`](images/video.mp4).
 
